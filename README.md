@@ -1,1 +1,0 @@
-# mock_api_template
